@@ -8,7 +8,7 @@ Congrats! You just saved yourself hours of work by bootstrapping this project wi
 
 ## Commands
 
-TSDX scaffolds your new library inside `/src`.
+TSDX scaffolds your new library inside! `/src`.
 
 To run TSDX, use:
 
