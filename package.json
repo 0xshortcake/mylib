@@ -17,7 +17,7 @@
     "lint": "tsdx lint",
     "size": "size-limit",
     "analyze": "size-limit --why",
-    "prepare": "typechain --out-dir 'src/contracts' --target=ethers-v5 'src/abis/**/*.json'"
+    "prepare": "tsdx build; typechain --out-dir 'src/contracts' --target=ethers-v5 'src/abis/**/*.json'"
   },
   "peerDependencies": {},
   "eslintIgnore": [
