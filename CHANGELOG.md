@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/0xshortcake/mylib/compare/v1.2.0...v1.2.1) (2022-07-29)
+
+
+### Bug Fixes
+
+* tc install error ([558cff5](https://github.com/0xshortcake/mylib/commit/558cff535e769d56c3ecb63b02e53a317bebcd35))
+
 ## 1.2.0 (2022-07-29)
 
 
