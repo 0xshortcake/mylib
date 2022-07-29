@@ -21,6 +21,9 @@
     "postinstall": "typechain --out-dir 'src/contracts' --target=ethers-v5 'src/abis/**/*.json'"
   },
   "peerDependencies": {},
+  "eslintIgnore": [
+    "src/contracts"
+  ],
   "husky": {
     "hooks": {
       "pre-commit": "tsdx lint"
