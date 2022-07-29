@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.2.2](https://github.com/0xshortcake/mylib/compare/v1.2.1...v1.2.2) (2022-07-29)
+
+
+### Bug Fixes
+
+* add back typechain cmd ([bc5d95c](https://github.com/0xshortcake/mylib/commit/bc5d95c62fb514ab125232989b8f2967fd7e7397))
+* no postinstall ([4a572b3](https://github.com/0xshortcake/mylib/commit/4a572b340e3af997a70fe4375c2f131211c473db))
+
 ## [1.2.1](https://github.com/0xshortcake/mylib/compare/v1.2.0...v1.2.1) (2022-07-29)
 
 
