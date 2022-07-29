@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.3](https://github.com/0xshortcake/mylib/compare/v1.2.2...v1.2.3) (2022-07-29)
+
+
+### Bug Fixes
+
+* build + prepare ([a294617](https://github.com/0xshortcake/mylib/commit/a294617a41aa37f3af481c213744721e762e0393))
+
 ## [1.2.2](https://github.com/0xshortcake/mylib/compare/v1.2.1...v1.2.2) (2022-07-29)
 
 
