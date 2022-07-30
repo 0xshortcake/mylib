@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.5](https://github.com/0xshortcake/mylib/compare/v1.2.4...v1.2.5) (2022-07-30)
+
+
+### Bug Fixes
+
+* typechain last ([1347dee](https://github.com/0xshortcake/mylib/commit/1347dee8059c204948f890b12ce3158a699545f5))
+
 ## [1.2.4](https://github.com/0xshortcake/mylib/compare/v1.2.3...v1.2.4) (2022-07-30)
 
 
