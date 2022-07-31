@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.6](https://github.com/0xshortcake/mylib/compare/v1.2.5...v1.2.6) (2022-07-31)
+
+
+### Bug Fixes
+
+* move tc before build ([1ab8c84](https://github.com/0xshortcake/mylib/commit/1ab8c840ffec9d3dc51e03a37f05192bf3dd9183))
+
 ## [1.2.5](https://github.com/0xshortcake/mylib/compare/v1.2.4...v1.2.5) (2022-07-30)
 
 
