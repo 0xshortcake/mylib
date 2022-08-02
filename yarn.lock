@@ -3347,6 +3347,11 @@ ethers@^5.6.9:
     "@ethersproject/web" "5.6.1"
     "@ethersproject/wordlists" "5.6.1"
 
+event-source-polyfill@^1.0.28:
+  version "1.0.28"
+  resolved "https://registry.yarnpkg.com/event-source-polyfill/-/event-source-polyfill-1.0.28.tgz#9029143e6827c65b91b7edfb8528f8384930eff7"
+  integrity sha512-S4Je04Br394hKTiyUXKAkNpha/7r172rLNu76sdxB3Nw2g9sjuEc4kxMu/miaikvWA4jvJ2x6Xkg6BOAb1aM7g==
+
 exec-sh@^0.3.2:
   version "0.3.6"
   resolved "https://registry.yarnpkg.com/exec-sh/-/exec-sh-0.3.6.tgz#ff264f9e325519a60cb5e273692943483cca63bc"
